@@ -1,0 +1,17 @@
+h1{
+    color:black;
+    background:rgb(149, 245, 245);
+    text-align: center;
+    font-family:serif;
+}
+button{
+    color: black;
+    background:rgb(149, 245, 245);
+    font-family:serif;
+    outline: none;
+}
+/* .btn{
+    color: black;
+    background:rgb(149, 245, 245);
+    
+} */
